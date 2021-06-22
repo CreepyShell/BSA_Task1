@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tEJT3xX9+BnOWqkcxNESQY1m9qOFPkQN+kp+/G5tm4y8cKTo8dbexPDDBEfalq8bQIVMg+7a+OxwtgFMgJ4tXQ==",
+  "success": true,
+  "projectFilePath": "D:\\BSAStudy\\BSA_Task1\\BSA_Task1\\BSA_Task1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
